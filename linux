@@ -1,0 +1,12 @@
+npm i -g yarn
+yarn init // Criar um package.json padrão
+yarn add modulo (express, electron) -D // Dependencia Desenvolvimento
+
+// Linux
+
+ctrl + L // Limpar o console
+ctrl + R // Visualizar Historico comandos executados
+
+// VSCode
+
+ctrl + shift + L // Trocar todas as ocorrencias de uma palavra
